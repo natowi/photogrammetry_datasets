@@ -138,7 +138,7 @@ Coded targets 6 images, 3 targets
 
 Building 50 images, 12 MPix
 
-# Zephyr (datasets of different authors)
+# Zephyr (datasets,different authors)
 https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
 
 - Reconstruction of the Dante statue in Piazza dei Signori in Verona from 102 pictures. 
@@ -151,7 +151,7 @@ https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
 - HESPER shipwreck orthophoto  
 - Zeche Zollern UAV  
 
-# High Quality Data https://www.tanksandtemples.org/
+# Benchmark for image-based 3D reconstruction https://www.tanksandtemples.org/
 Family 			
 Francis 			
 Horse 			
@@ -174,7 +174,7 @@ Ignatius
 Meeting room 				
 Truck
 
-
+</br>
 #bundler_sfm
 https://github.com/snavely/bundler_sfm/tree/master/examples/kermit
 
