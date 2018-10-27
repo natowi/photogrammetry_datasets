@@ -1,9 +1,25 @@
 # photogrammetry_datasets
 This is a collection of datasets for photogrammetry
 
-# ReconstructionDataSet
+# various datasets
 Buildings
 https://github.com/rperrot/ReconstructionDataSet
+
+Flowerpot
+https://github.com/natowi/dataset_flowerpot
+
+# Alicevision
+Monstree
+https://github.com/alicevision/dataset_monstree
+
+Buddha
+https://github.com/alicevision/dataset_buddha
+
+# Falkingham
+https://peterfalkingham.com/resources/
+
+Styracosaurus model
+https://1drv.ms/u/s!Am5GkbZS_98XqJcY7pZBjtpooG3AGQ
 
 # British Museum
 The Rosetta Stone
@@ -74,6 +90,12 @@ https://github.com/edanvoye/photogrammetry_example_seashell
 - -
 # Demo Datasets
 
+# Meshrecon / Zhuoliang Kang http://zhuoliang.me/meshrecon.html
+Gargoyle:   23 images [8.9MB] http://zhuoliang.me/gargoyle.zip
+Gnome:   27 images [6.8MB]   model [1.3MB] http://zhuoliang.me/gnome.zip
+Squirrel:   23 images [6.7MB]   model [1.3MB] http://zhuoliang.me/squirrel.zip
+Woodland Squirrel:   20 images [5.1MB]   model [1.0MB] http://zhuoliang.me/woodland%20squirrel.zip
+
 # MicMac 
 https://micmac.ensg.eu/index.php/Accueil
     Gravillons : http://micmac.ensg.eu/data/gravillons_dataset.zip
@@ -102,3 +124,60 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094346
 http://theconversation.com/a-big-tick-for-entomologists-new-3d-colour-scans-of-insects-26459
 https://blog.sketchfab.com/3d-insects-zoosphere-image-sets/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968080/
+
+# Huge datasets (50-250GB)
+http://www.realityvirtual.co/
+
+# Agisoft
+http://www.agisoft.com/downloads/sample-data/
+Doll 61 images, 14 MPix Monument 32 images, 12 MPix 
+
+Spherical panorama 73 images, 24 MPix
+
+Coded targets 6 images, 3 targets
+
+Building 50 images, 12 MPix
+
+# Zephyr (datasets of different authors)
+https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
+
+- Reconstruction of the Dante statue in Piazza dei Signori in Verona from 102 pictures. 
+- Duomo of Pisa
+- Cherub Statue  
+- Raspberry Pi body scan  
+- Aerial survey  
+- Shape from Silhouette  
+- Skeleton excavation  
+- HESPER shipwreck orthophoto  
+- Zeche Zollern UAV  
+
+# High Quality Data https://www.tanksandtemples.org/
+Family 			
+Francis 			
+Horse 			
+Lighthouse 			
+M60 			
+Panther 			
+Playground 			
+Train
+Auditorium 			
+Ballroom 			
+Courtroom 			
+Museum 			
+Palace 			
+Temple
+Barn 				
+Caterpillar 				
+Church 				
+Courthouse 				
+Ignatius 				
+Meeting room 				
+Truck
+
+
+#bundler_sfm
+https://github.com/snavely/bundler_sfm/tree/master/examples/kermit
+
+
+// targets http://www.terrageomatics.com/download/
+
