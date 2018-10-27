@@ -1,7 +1,7 @@
 Testing the datasets in Meshroom
 
 
-Horse
+# Horse dataset from tanksandtemples.org
 images: 151
 total size: 71MB
 
@@ -11,4 +11,14 @@ RAM usage up to 7GB (32GB total)
 
 Processing time (Meshroom default): 64 minutes
 Result: Horse was not reconstructed, but the surroundings were
+Note: no masks were used
+
+Mesh
+File size: 37MB
+Vertices: 269749
+Faces: 538311
+
+Image1
+
+Image2
 
