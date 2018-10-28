@@ -32,6 +32,9 @@ RAM usage up to 7.5GB (32GB total)
 Processing time: 180 min
 
 # Meshroom + Ultra + all algorithms
+GPU usage up to 60% (GTX 1070 / 8GB)
+CPU usage up to 99% (i7-7820 @ 3.3 GHz)
+RAM usage up to 12GB (32GB total)
 Processing time: 7h 
 no horse
 
