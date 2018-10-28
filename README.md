@@ -141,15 +141,15 @@ Building 50 images, 12 MPix
 # Zephyr (datasets,different authors)
 https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
 
-- Reconstruction of the Dante statue in Piazza dei Signori in Verona from 102 pictures. 
-- Duomo of Pisa
+- Reconstruction of the Dante statue in Piazza dei Signori in Verona from 102 pictures. Dataset courtesy of Picelli-Tacconi studio
+- Duomo of Pisa Dataset courtesy of Visual Computing Lab
 - Cherub Statue  
-- Raspberry Pi body scan  
-- Aerial survey  
+- Raspberry Pi body scan Dataset courtesy of pi3dscan
+- Aerial survey  "Enzo Ferrari" dept. of the Università di studi di Modena e Reggio Emilia
 - Shape from Silhouette  
-- Skeleton excavation  
-- HESPER shipwreck orthophoto  
-- Zeche Zollern UAV  
+- Skeleton excavation  Civic Museum of Rovereto.
+- HESPER shipwreck orthophoto  Dataset courtesy of Jerry Eliason, Great Lakes Shipwreck Preservation Society
+- Zeche Zollern UAV  datasets by ISPRS and EuroSDR, released in conjuction with the ISPRS scientific initiative 2014 and 2015, lead by ISPRS ICWG I/Vb
 
 # Benchmark for image-based 3D reconstruction https://www.tanksandtemples.org/
 (https://github.com/IntelVCL/TanksAndTemples)
