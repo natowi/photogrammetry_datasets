@@ -128,6 +128,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968080/
 # Huge datasets (50-250GB)
 http://www.realityvirtual.co/
 
+http://roboimagedata.compute.dtu.dk/?page_id=24 (13-50GB)
+
 # Agisoft
 http://www.agisoft.com/downloads/sample-data/
 Doll 61 images, 14 MPix Monument 32 images, 12 MPix 
