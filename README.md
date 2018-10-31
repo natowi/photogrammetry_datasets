@@ -184,3 +184,6 @@ https://github.com/snavely/bundler_sfm/tree/master/examples/kermit
 
 // targets http://www.terrageomatics.com/download/
 
+https://zenodo.org/search?page=1&size=20&q=photogrammetry&access_right=open
+https://zenodo.org/communities/ladio/?page=1&size=20
+https://zenodo.org/record/1458271
