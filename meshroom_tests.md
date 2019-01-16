@@ -49,5 +49,5 @@ cpu 100
 ram 5gb
 gpu 30% 1gb
 
-improvements.jpg
+![alt text](https://github.com/natowi/photogrammetry_datasets/tree/master/screenshots/improvements.jpg)
 
