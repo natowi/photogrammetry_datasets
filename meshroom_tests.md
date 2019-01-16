@@ -40,3 +40,14 @@ no horse
 --> test again with masks
 
 --> Now I know how to fix it. Tutorial WIP
+
+# middlebury temple
+http://vision.middlebury.edu/mview/
+
+4-10min in MR
+cpu 100
+ram 5gb
+gpu 30% 1gb
+
+improvements.jpg
+
