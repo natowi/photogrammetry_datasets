@@ -86,44 +86,72 @@ https://github.com/portableant/lancerAbuDhabiLouvre
 
 # Photogrammetry Example: Seashell
 This is an example imageset with associated scripts to illustrate the usage of Control Point Registration in OpenMVG.
+
 https://github.com/edanvoye/photogrammetry_example_seashell
 - -
 # Demo Datasets
 
 # Meshrecon / Zhuoliang Kang http://zhuoliang.me/meshrecon.html
+
 Gargoyle:   23 images [8.9MB] http://zhuoliang.me/gargoyle.zip
+
 Gnome:   27 images [6.8MB]   model [1.3MB] http://zhuoliang.me/gnome.zip
+
 Squirrel:   23 images [6.7MB]   model [1.3MB] http://zhuoliang.me/squirrel.zip
+
 Woodland Squirrel:   20 images [5.1MB]   model [1.0MB] http://zhuoliang.me/woodland%20squirrel.zip
 
 # MicMac 
 https://micmac.ensg.eu/index.php/Accueil
     Gravillons : http://micmac.ensg.eu/data/gravillons_dataset.zip
+    
     Fontaine : http://micmac.ensg.eu/data/fontaine_dataset.zip
+    
     Pierrerue : http://micmac.ensg.eu/data/pierrerue_dataset.zip
+    
     Zhenjue : http://micmac.ensg.eu/data/zhenjue_dataset.zip
+    
     GrandLeez : http://micmac.ensg.eu/data/uas_grand_leez_dataset.zip
+    
     Chambord Tower : http://micmac.ensg.eu/data/Chambord_Tower_Dataset.zip
+    
     Saint Michel De Cuxa : http://micmac.ensg.eu/data/Saint_Michel_De_Cuxa_Dataset.zip
+    
     Mur Saint Martin : http://micmac.ensg.eu/data/Mur_Saint_Martin_Dataset.zip
+    
     Street Saint Martin : http://micmac.ensg.eu/data/Street_Saint_Martin_Dataset.zip
+    
     Tortue Hue : http://micmac.ensg.eu/data/Tortue_Hue_Dataset.zip
+    
     Vincennes : http://micmac.ensg.eu/data/Vincennes_Dataset.zip
+    
     Viabon : http://micmac.ensg.eu/data/Viabon_Dataset.zip
+    
     Mars : http://micmac.ensg.eu/data/Mars_Dataset.zip
+    
     Gulya Earthquake : http://micmac.ensg.eu/data/Guyla_Earthquake_Dataset.zip
+    
     Concrete : http://micmac.ensg.eu/data/Concrete_Dataset.zip
+    
     DemoScanned : http://micmac.ensg.eu/data/DemoScanned_Dataset.zip
+    
     Ramses : http://micmac.ensg.eu/data/Ramses_Dataset.zip
     
 # zoosphere.net
 http://www.zoosphere.net
+
 ...
+
 https://www.ala.org.au/chuong/
+
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094346
+
 http://theconversation.com/a-big-tick-for-entomologists-new-3d-colour-scans-of-insects-26459
+
 https://blog.sketchfab.com/3d-insects-zoosphere-image-sets/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968080/
+
 
 # Huge datasets (50-250GB)
 http://www.realityvirtual.co/
@@ -144,38 +172,85 @@ Building 50 images, 12 MPix
 https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
 
 - Reconstruction of the Dante statue in Piazza dei Signori in Verona from 102 pictures. Dataset courtesy of Picelli-Tacconi studio
+
 - Duomo of Pisa Dataset courtesy of Visual Computing Lab
+
 - Cherub Statue  
+
 - Raspberry Pi body scan Dataset courtesy of pi3dscan
+
 - Aerial survey  "Enzo Ferrari" dept. of the Università di studi di Modena e Reggio Emilia
+
 - Shape from Silhouette  
+
 - Skeleton excavation  Civic Museum of Rovereto.
+
 - HESPER shipwreck orthophoto  Dataset courtesy of Jerry Eliason, Great Lakes Shipwreck Preservation Society
-- Zeche Zollern UAV  datasets by ISPRS and EuroSDR, released in conjuction with the ISPRS scientific initiative 2014 and 2015, lead by ISPRS ICWG I/Vb
+
+- Zeche Zollern UAV  datasets by ISPRS and EuroSDR, released in conjuction with the ISPRS scientific initiative 2014 and 2015, lead by 
+ISPRS ICWG I/Vb
 
 # Benchmark for image-based 3D reconstruction https://www.tanksandtemples.org/
 (https://github.com/IntelVCL/TanksAndTemples)
+
 Family 			
+
 Francis 			
+
 Horse 			
+
 Lighthouse 			
+
 M60 			
+
 Panther 			
+
 Playground 			
+
 Train
+
 Auditorium 			
+
 Ballroom 			
+
 Courtroom 			
+
 Museum 			
+
 Palace 			
+
 Temple
+
 Barn 				
+
 Caterpillar 				
+
 Church 				
+
 Courthouse 				
+
 Ignatius 				
+
 Meeting room 				
+
 Truck
+
+# Benchmarking RGB-D, Visual Odometry and SLAM algorithms (1-3GB)
+
+The ICL-NUIM dataset aims at benchmarking RGB-D, Visual Odometry and SLAM algorithms
+using *synthetic models* of indoor scenes
+
+https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
+
+Living Room Dataset 
+
+Office Room Dataset 
+
+# Augmented ICL-NUIM Dataset
+Augmented dataset to support evaluation of complete scene reconstruction pipelines.
+http://redwood-data.org/indoor/dataset.html
+http://redwood-data.org/indoor/data/choi2015cvpr.pdf
+
 
 </br>
 #bundler_sfm
@@ -185,5 +260,9 @@ https://github.com/snavely/bundler_sfm/tree/master/examples/kermit
 // targets http://www.terrageomatics.com/download/
 
 https://zenodo.org/search?page=1&size=20&q=photogrammetry&access_right=open
+
 https://zenodo.org/communities/ladio/?page=1&size=20
+
 https://zenodo.org/record/1458271
+
+https://avanderj.github.io/3d-modeling-and-pre-columbian-ceramic-vessels/
