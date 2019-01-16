@@ -20,9 +20,8 @@ File size: 37MB
 Vertices: 269749
 Faces: 538311
 
-[Image1] (/screenshots/horse1pt.JPG)
-
-[Image2] (/screenshots/horse1mesh.JPG
+![alt text](https://github.com/natowi/photogrammetry_datasets/blob/master/screenshots/horse1pt.JPG "Image 1")
+![alt text](https://github.com/natowi/photogrammetry_datasets/blob/master/screenshots/horse1mesh.JPG "Image 1")
 
 # Meshroom + Ultra + AKAZE
 GPU usage up to 60% (GTX 1070 / 8GB)
