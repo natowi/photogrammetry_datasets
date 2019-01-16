@@ -39,13 +39,3 @@ Processing time: 7h
 no horse
 
 --> test again with masks
-
-
-
-####
-http://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
-http://redwood-data.org/indoor/data/choi2015cvpr.pdf
-http://redwood-data.org/indoor/dataset.html
-https://avanderj.github.io/3d-modeling-and-pre-columbian-ceramic-vessels/
-
-https://zenodo.org/search?page=1&size=20&q=photogrammetry&access_right=open
