@@ -258,6 +258,12 @@ Augmented dataset to support evaluation of complete scene reconstruction pipelin
 http://redwood-data.org/indoor/dataset.html
 http://redwood-data.org/indoor/data/choi2015cvpr.pdf
 
+# middlebury
+http://vision.middlebury.edu/mview/
+
+Temple
+Dino
+
 
 </br>
 #bundler_sfm
