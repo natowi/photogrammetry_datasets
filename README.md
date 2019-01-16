@@ -190,8 +190,15 @@ https://www.3dflow.net/3df-zephyr-reconstruction-showcase/
 - Zeche Zollern UAV  datasets by ISPRS and EuroSDR, released in conjuction with the ISPRS scientific initiative 2014 and 2015, lead by 
 ISPRS ICWG I/Vb
 
-# Benchmark for image-based 3D reconstruction https://www.tanksandtemples.org/
+# Benchmark for image-based 3D reconstruction 
+
+https://www.tanksandtemples.org/
+
 (https://github.com/IntelVCL/TanksAndTemples)
+
+<a href="https://www.youtube.com/watch?v=DJnrp05g7vg
+" target="_blank"><img src="http://img.youtube.com/vi/DJnrp05g7vg/0.jpg" 
+alt="tanksandtemples" width="240" height="180" border="10" /></a>
 
 Family 			
 
