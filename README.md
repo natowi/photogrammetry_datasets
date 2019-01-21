@@ -91,7 +91,8 @@ https://github.com/edanvoye/photogrammetry_example_seashell
 - -
 # Demo Datasets
 
-# Meshrecon / Zhuoliang Kang http://zhuoliang.me/meshrecon.html
+# Meshrecon / Zhuoliang Kang 
+http://zhuoliang.me/meshrecon.html
 
 Gargoyle:   23 images [8.9MB] http://zhuoliang.me/gargoyle.zip
 
