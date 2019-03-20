@@ -88,6 +88,11 @@ https://github.com/portableant/lancerAbuDhabiLouvre
 This is an example imageset with associated scripts to illustrate the usage of Control Point Registration in OpenMVG.
 
 https://github.com/edanvoye/photogrammetry_example_seashell
+
+# Rockscan 50 Images by Marvin.K.Breuer
+https://github.com/mkbreuer/Misc-Share-Archiv/blob/master/testing/Rockscan_50_Images.zip
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
 - -
 # Demo Datasets
 
