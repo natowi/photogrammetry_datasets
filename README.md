@@ -93,6 +93,10 @@ https://github.com/edanvoye/photogrammetry_example_seashell
 https://github.com/mkbreuer/Misc-Share-Archiv/blob/master/testing/Rockscan_50_Images.zip
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
+# High Resolution Face Capture by triplegangers
+https://www.triplegangers.com/blog/cat/news/post/free-scan-sample/ 700 MB
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
 - -
 # Demo Datasets
 
@@ -143,7 +147,7 @@ DemoScanned : http://micmac.ensg.eu/data/DemoScanned_Dataset.zip
     
 Ramses : http://micmac.ensg.eu/data/Ramses_Dataset.zip
 
-#MVE
+# MVE
 https://www.gcc.tu-darmstadt.de/home/proj/mve/
 
 Kermit Dataset (11 images, 9 registered) [Download 6MB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/mve-kermit-20151002.tar.gz)
