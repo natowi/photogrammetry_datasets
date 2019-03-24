@@ -142,6 +142,21 @@ Concrete : http://micmac.ensg.eu/data/Concrete_Dataset.zip
 DemoScanned : http://micmac.ensg.eu/data/DemoScanned_Dataset.zip
     
 Ramses : http://micmac.ensg.eu/data/Ramses_Dataset.zip
+
+#MVE
+https://www.gcc.tu-darmstadt.de/home/proj/mve/
+
+Kermit Dataset (11 images, 9 registered) [Download 6MB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/mve-kermit-20151002.tar.gz)
+
+Achteck-Turm Dataset (36 images) [Download 83MB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/mve-achteck_turm-20130528.tar.gz)
+
+Der Hass (79 images with bundle) [Download 62MB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/der_hass-20140923.tar.gz)
+This download does not contain an MVE scene, just images and a VisualSfM bundle file. Create an MVE scene using the makescene tool: makescene der_hass-20140923/bundle.nvm OUTPUT_SCENE_DIR
+
+Citywall (564 images with bundle) [Download 376MB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/citywall-20140923.tar.gz)
+This download does not contain an MVE scene, just images and a VisualSfM bundle file. Create an MVE scene using the makescene tool: makescene citywall-20140923/bundle.nvm OUTPUT_SCENE_DIR
+
+Reader Dataset (539 images) [Download 1.3GB](http://download.hrz.tu-darmstadt.de/media/FB20/GCC/mve_datasets/mve-reader-20150428.tar.gz)
     
 # zoosphere.net
 http://www.zoosphere.net
