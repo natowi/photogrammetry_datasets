@@ -111,6 +111,10 @@ Squirrel:   23 images [6.7MB]   model [1.3MB] http://zhuoliang.me/squirrel.zip
 
 Woodland Squirrel:   20 images [5.1MB]   model [1.0MB] http://zhuoliang.me/woodland%20squirrel.zip
 
+# Network Principles for SfM: Disambiguating Repeated Structures with Local Context - Kyle Wilson, Noah Snavely 
+http://www.cs.cornell.edu/projects/disambig/
+Seville 1,6gb, SacreCoeur 3,1gb, Louvre 3,5gb, NotreDame 8gb
+
 # MicMac 
 https://micmac.ensg.eu/index.php/Accueil
 Gravillons : http://micmac.ensg.eu/data/gravillons_dataset.zip
