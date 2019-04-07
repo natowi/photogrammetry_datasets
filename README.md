@@ -317,3 +317,5 @@ https://github.com/rperrot/ReconstructionDataSet
 
 Datasets for Computer Vision
 https://github.com/AIBluefisher/ComputerVisionDatasets
+
+https://github.com/AIBluefisher/ComputerVisionDatasets/tree/master/3d_reconstruction
