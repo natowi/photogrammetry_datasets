@@ -2,7 +2,9 @@
 This is a collection of datasets for photogrammetry.
 
 A list of ~230 datasets can be downloaded from /dataset.csv (first draft)
+
 Contents:
+
 Dataset,Camera,Category,Author,Organisation/Project,Source,Dataset link,Images,Size in GB (ca.),Ground Truth,License,License link,SampleImage,Image Format,DOI,Masks,Description
 
 # List overview
