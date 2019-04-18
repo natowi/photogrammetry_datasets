@@ -1,5 +1,6 @@
 # photogrammetry_datasets
-This is a collection of datasets for photogrammetry
+This is a collection of datasets for photogrammetry.
+
 A list of ~230 datasets can be downloaded from /dataset.csv
 
 # various datasets
