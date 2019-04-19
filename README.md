@@ -356,3 +356,12 @@ http://products.dronedata.com/demo/
 https://grail.cs.washington.edu/rome/
 
 https://geo.nyu.edu/catalog/nyu_2451_38684
+
+http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+
+https://openheritage3d.org/
+
+Thomas Jefferson Memorial, United States of America 181 GB
+https://openheritage3d.org/project.php?id=mpkc-8q07
+
+https://openheritage3d.org/data
