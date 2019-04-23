@@ -365,3 +365,5 @@ Thomas Jefferson Memorial, United States of America 181 GB
 https://openheritage3d.org/project.php?id=mpkc-8q07
 
 https://openheritage3d.org/data
+
+http://gmv.cast.uark.edu/photogrammetry/data/
