@@ -1,7 +1,7 @@
 # photogrammetry_datasets
 This is a collection of datasets for photogrammetry.
 
-A list of **~230 datasets** can be downloaded from /dataset.csv (first draft)
+A list of **~230 datasets** can be downloaded from **dataset.csv** (first draft)
 
 Contents:
 
@@ -236,48 +236,6 @@ https://www.tanksandtemples.org/
 <a href="https://www.youtube.com/watch?v=DJnrp05g7vg
 " target="_blank"><img src="http://img.youtube.com/vi/DJnrp05g7vg/0.jpg" 
 alt="tanksandtemples" width="240" height="180" border="10" /></a>
-
-Family 			
-
-Francis 			
-
-Horse 			
-
-Lighthouse 			
-
-M60 			
-
-Panther 			
-
-Playground 			
-
-Train
-
-Auditorium 			
-
-Ballroom 			
-
-Courtroom 			
-
-Museum 			
-
-Palace 			
-
-Temple
-
-Barn 				
-
-Caterpillar 				
-
-Church 				
-
-Courthouse 				
-
-Ignatius 				
-
-Meeting room 				
-
-Truck
 
 # Benchmarking RGB-D, Visual Odometry and SLAM algorithms (1-3GB)
 
