@@ -1,7 +1,7 @@
 # photogrammetry_datasets
 This is a collection of datasets for photogrammetry.
 
-A list of **~230 datasets** can be downloaded from this repo (**dataset.csv**).
+A list of **~290 datasets** can be downloaded from this repo (**dataset.csv**).
 
 Contents:
 
@@ -17,8 +17,6 @@ From small (<20MB), medium (1GB-5GB) to large (up to 350GB) datasets.
 
 # New
 
-http://www.cvlibs.net/datasets/kitti/eval_odometry.php
-
 https://openheritage3d.org/
 
 Thomas Jefferson Memorial, United States of America 181 GB
@@ -27,3 +25,5 @@ https://openheritage3d.org/project.php?id=mpkc-8q07
 https://openheritage3d.org/data
 
 http://gmv.cast.uark.edu/photogrammetry/data/
+
+http://www.cvlibs.net/datasets/kitti/eval_odometry.php
