@@ -26,4 +26,4 @@ https://openheritage3d.org/data
 
 http://gmv.cast.uark.edu/photogrammetry/data/
 
-http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+https://web.archive.org/web/20180305062842/http://www.cvlibs.net/datasets/kitti/eval_odometry.php
