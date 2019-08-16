@@ -1,7 +1,7 @@
 # photogrammetry_datasets
 This is a collection of datasets for photogrammetry.
 
-A list of **~230 datasets** can be downloaded from **![dataset.csv](dataset.csv)**.
+A list of **~230 datasets** can be downloaded here: **![dataset.csv](dataset.csv)**.
 
 Contents:
 
