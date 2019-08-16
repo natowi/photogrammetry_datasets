@@ -230,3 +230,66 @@ Dalibor Castle in Prague and a model figure of a werewolf ,,,,,https://zenodo.or
 sofa corner ,,,,,https://zenodo.org/record/2553399,,,"0,3",Yes,,,,,,,This data set provides photographs and a continuous LIDAR scan (using the Velodyne VLP-16) of a sofa corner at Simula Research Laboratory that were created for the BUISAR project funded by the researcher council of Norway (project number 270951). A  3D reconstruction of the sofa corner was created using Meshroom (http://github.com/alicevision/meshroom) with support from the LADIO project. 
 Stockholm ,,,,,https://zenodo.org/record/1434828,,,"0,3",Yes,,,,MOV,,,Shots against reflective building with lidar. Other kinds of movie-like shots to test reconstruction algorithms.
 Oslo Plaza ,,,"Vrba, Stian Z.Quine AS; Skarseth, Kristian; Groven, Gunleik",,https://zenodo.org/record/1434808,,,"0,3",Yes,Creative Commons Attribution 4.0 International,http://creativecommons.org/licenses/by/4.0/legalcode,,MOV,,,"Data set for reconstruction from Oslo Plaza. Reflective surfaces, erratic camera movements. Includes shots with Theta 360 camera "
+AvignonHotelDesMonnaies,Canon EOS 5D Mark II,Building,Romuald Perrot rperrot,,https://github.com/rperrot/ReconstructionDataSet,https://github.com/rperrot/ReconstructionDataSet/tree/master/AvignonHotelDesMonnaies,11,"0,176",no,Attribution-NonCommercial 3.0 Unported,https://github.com/rperrot/ReconstructionDataSet/blob/master/LICENSE,https://github.com/rperrot/ReconstructionDataSet/blob/master/AvignonHotelDesMonnaies/DPP_0001.JPG,JPG,,,Hotel des Monnaies facade building in Avignon (France)
+,,,,,,,,,,,,,,,,
+Bimaristan Nur al-Din Photogrammetry Dataset ,,Heritage,Directorate-General of Antiquities and Museums (Syria),Data collected under the auspices of the Directorate-General of Antiquities and Museums Syria ,https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/RH85N5,https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/RH85N5,,16,"no, but maps",?,?,?,CR2,10.5683/SP2/RH85N5 ,no,"The Bimaristan Nur al-Din (large medieval bimaristan (""hospital"") in Damascus, Syria)  Photogrammetry Dataset includes scan maps and Raw scans compressed in RAR format. * Note: All 'CR2_part#' must be downloaded and saved in order for complete inventory of photos to open. (2018-08-01) "
+Hammam Nur al-Din Photogrammetry Dataset ,,Heritage,Directorate-General of Antiquities and Museums (Syria) ,Data collected under the auspices of the Directorate-General of Antiquities and Museums Syria ,https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/K4W50L,https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/K4W50L,,19,"no, but maps",?,?,?,CR2,10.5683/SP2/K4W50L ,no,The Hammam Nur al-Din Photogrammetry Dataset includes scan maps and Raw scans compressed in RAR format. * Note: All 'CR2_part#' must be downloaded and saved in order for complete inventory of photos open. (2018-08-01) 
+Avenches (France) data set ,,Aerial,,,https://www.isprs.org/data/avenches/default.aspx,https://www.isprs.org/data/avenches/TAR/dataset.tar.gz,,"0,085",,,,https://www.isprs.org/data/avenches/images/5873_1b.gif,,,,"High resolution, large-scale colour aerial images RGB images, image scale 1:5,000, images scanned with a geometrically precise photogrammetric scanner with 15 microns pixel size. Four images, forming a 2 x 2 block, with 60% forward and sidewards overlap were used. To reduce the amount of data only two image subsets (an industrial and a residential area) will be distributed. These areas are 1800 x 1800 pixels and are imaged in all 4 aerial images."
+Industrial Estate,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=6069,277,,,,,,,,,This dataset of a light industrial estate in Switzerland was collected by an eBee X fixed-wing drone carrying a senseFly Duet T thermal mapping camera. The images were processed using Pix4D software. The point cloud and DSM outputs are based on the camera's RGB images. The thermal data meanwhile were projected to generate the thermal 3D mesh and temperature index map. 277 RGB + 277 thermal images
+Mixed-Use Fields,MicaSense RedEdge-MX multispectral camera,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=5632,12740,,,,,,,,,"This dataset of mixed-use agricultural fields was collected in Assens, Switzerland during winter 2018/2019. The 220 ha (544ac) site was mapped with a single 75-minute senseFly eBee X drone flight (with the platform's Endurance Extension activated) and the drone was carrying a MicaSense RedEdge-MX multispectral camera. "
+Thammasat University campus in Bangkok,senseFly Aeria X ,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=5580,443,,,,,https://www.sensefly.com/app/uploads/2019/02/thamasat.jpg,,,,"This dataset of Thammasat University campus in Bangkok, Thailand was collected by a senseFly eBee X drone carrying a senseFly Aeria X photogrammetry camera. "
+Gravel Quarry,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=5577,136,,,,,,,,,"This gravel quarry in Johnson, Vermont (USA) was surveyed with an eBee X drone carrying a senseFly Aeria X camera. The flight height was planned at 122 m (400ft) AED at an estimated GSD of 2.54cm/pix (1 inch). However, because of the depth of the quarry, the final GSD was 3.59 cm (1.41 in)/pixel."
+Wheat Field,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=5538,1788,,,,,https://www.sensefly.com/app/uploads/2019/02/NDVI-screen.jpg,,,,"This wheat field in Rostock, Germany was mapped using an eBee SQ agriculture drone, which carries a Parrot Sequoia+ camera. The flight's multispectral images were processed to create the NDVI and cloud dataset below using Pix4Dfields software. This dataset is courtesy of Pix4D."
+Dam Inspection,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,https://www.sensefly.com/education/datasets/?dataset=5258,310,,,,,,,,,"The gravity dam in Salanfe, Switzerland has a storage capacity of 40 million cubic metres. It is 52m high, 40 m wide at the base, with a 608 m top length. This dataset was collected with an eBee X carrying a senseFly S.O.D.A. 3D camera."
+Hotel Modelling,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Technology Park,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Industrial Estate,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Old Lighthouse,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+New Road Corridor,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+The Great Aletsch Glacier,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Bridge Pillar,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+GSM tower,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Industrial Estate,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Crop Field (RGB),,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Crop Field (Multispectral),,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Arch Dam,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Quarry Rock Face,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Airport,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Gravel Pit,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Small Village,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Small Village,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Quarry,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Solar Panel Installation,,Aerial,sensefly,sensefly,https://www.sensefly.com/education/datasets/,,,,,,,,,,,
+Construction Site,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,28,,,,,,,,,
+Swiss Quarry,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,127,,,,,,,,,
+Oblique Imagery,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,37,,,,,,,,,
+Near-Infrared,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,167,,,,,,,,,
+GSM Tower Inspection,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,95,,,,,,,,,
+Swiss Village,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,297,,,,,,,,,
+Bridge Column Inspection,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,151,,,,,,,,,
+Solar Field Thermography,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,1075,,,,,,,,,
+Paris-Le Bourget Airport,,Aerial,dronedata.com,dronedata.com,http://products.dronedata.com/demo/,,557,,,,,,,,,
+Quad6K,,,,,http://www.cs.cornell.edu/projects/bigsfm/#data,,,,,,,,,,,
+Dubrovnik6K,,,,,http://www.cs.cornell.edu/projects/bigsfm/#data,,,,,,,,,,,
+Rome16K,,,,,http://www.cs.cornell.edu/projects/bigsfm/#data,,,,,,,,,,,
+NotreDame,,,,,http://www.cs.cornell.edu/projects/bigsfm/#data,,715,,,,,,,,,
+1DSfM,,,,,http://www.cs.cornell.edu/projects/bigsfm/#data,,,,,,,,,,,
+Trafalgar6K,,,,,http://www.cs.cornell.edu/projects/matchlearn/,,,,,,,,,,,
+LondonEye7K,,,,,http://www.cs.cornell.edu/projects/matchlearn/,,,,,,,,,,,
+TateModern4K,,,,,http://www.cs.cornell.edu/projects/matchlearn/,,,,,,,,,,,
+SanMarco7K,,,,,http://www.cs.cornell.edu/projects/matchlearn/,,,,,,,,,,,
+TimesSquare6K,,,,,http://www.cs.cornell.edu/projects/matchlearn/,,,,,,,,,,,
+Ladybug,,,,,http://grail.cs.washington.edu/projects/bal/,http://grail.cs.washington.edu/projects/bal/ladybug.html,,,,,,,,,,
+Trafalgar Square,,,,,http://grail.cs.washington.edu/projects/bal/,http://grail.cs.washington.edu/projects/bal/trafalgar.html,,,,,,,,,,
+Dubrovnik,,,,,http://grail.cs.washington.edu/projects/bal/,http://grail.cs.washington.edu/projects/bal/dubrovnik.html,,,,,,,,,,
+Venice,,,,,http://grail.cs.washington.edu/projects/bal/,http://grail.cs.washington.edu/projects/bal/venice.html,,,,,,,,,,
+Final,,,,,http://grail.cs.washington.edu/projects/bal/,http://grail.cs.washington.edu/projects/bal/final.html,,,,,,,,,,
+Seville,,,,,http://www.cs.cornell.edu/projects/disambig/,,,,,,,,,,,
+SacreCoer,,,,,http://www.cs.cornell.edu/projects/disambig/,,,,,,,,,,,
+Louvre,,,,,http://www.cs.cornell.edu/projects/disambig/,,,,,,,,,,,
+NotreDame,,,,,http://www.cs.cornell.edu/projects/disambig/,,,,,,,,,,,
+"University of Arkansas, Fayetteville",,,,,http://gmv.cast.uark.edu/photogrammetry/data/,http://gmv.cast.uark.edu/photogrammetry/data/university-of-arkanas-fayetteville/,,,,,,,,,,
+"Tiwanaku, Bolivia",,,,,http://gmv.cast.uark.edu/photogrammetry/data/,http://gmv.cast.uark.edu/photogrammetry/data/tiwanaku-bolivia-photogrammetry-data/,,,,,,,,,,
+"Saqsaywaman, Peru",,,,,http://gmv.cast.uark.edu/photogrammetry/data/,http://gmv.cast.uark.edu/photogrammetry/data/cuzco-peru-photogrammetry-data/,,,,,,,,,,
+knowth-photogrammetry,,,,,http://gmv.cast.uark.edu/photogrammetry/data/,http://gmv.cast.uark.edu/region-data/data-photogrammetry/knowth-photogrammetry/,,,,,,,,,,
+Gabii Photogrammetry,,,,,http://gmv.cast.uark.edu/photogrammetry/data/,http://gmv.cast.uark.edu/region-data/data-photogrammetry/gabii-photogrammetry/,,,,,,,,,,
