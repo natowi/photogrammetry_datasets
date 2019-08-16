@@ -1,7 +1,7 @@
 # photogrammetry_datasets
 This is a collection of datasets for photogrammetry.
 
-A list of **~230 datasets** can be downloaded from **dataset.csv** (first draft)
+A list of **~230 datasets** can be downloaded from **![dataset.csv](dataset.csv)**.
 
 Contents:
 
@@ -11,6 +11,8 @@ Dataset,Camera,Category,Author,Organisation/Project,Source,Dataset link,Images,S
 
 The list includes a large variety of image sets and sizes.
 From small (<20MB), medium (1GB-5GB) to large (up to 350GB) datasets.
+
+**Contributions are welcome.**
 
 
 # New
