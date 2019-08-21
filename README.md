@@ -23,6 +23,8 @@ http://gmv.cast.uark.edu/photogrammetry/data/
 
 https://info.flyability.com/photogrammetry-dataset
 
+https://github.com/m6c7l/photogrammetry_dataset_cutedog
+
 # Broken Link
 
 https://web.archive.org/web/20180305062842/http://www.cvlibs.net/datasets/kitti/eval_odometry.php
