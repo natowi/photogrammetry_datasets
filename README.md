@@ -17,6 +17,8 @@ From small (<20MB), medium (1GB-5GB) to large (up to 350GB) datasets.
 
 # New
 
+https://github.com/HappyOcean/Full_Body_Photogrammetry https://www.youtube.com/watch?v=7hJI21mp7t8  Yukihiro Iwayama
+
 https://openheritage3d.org/data
 
 http://gmv.cast.uark.edu/photogrammetry/data/
