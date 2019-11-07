@@ -29,3 +29,6 @@ https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2
 https://www.mrpt.org/MalagaUrbanDataset
 
 http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+
+https://www.capturingreality.com/sampledatasets
+Small Plastic, Drone Imagery, Laser Scans and Photos, Full-Body Scan, Full-Body Scan - A Pose, Image Layers
