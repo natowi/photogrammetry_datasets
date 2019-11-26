@@ -36,3 +36,7 @@ Small Plastic, Drone Imagery, Laser Scans and Photos, Full-Body Scan, Full-Body 
 https://www.epfl.ch/labs/cvlab/data/data-strechamvs/
 
 https://github.com/m6c7l/photogrammetry
+https://github.com/ProjectNineveh/panel17RoomM
+https://github.com/ProjectNineveh/panel13
+https://github.com/ProjectNineveh/fruitCarriersRoomL1
+https://github.com/ProjectNineveh/panel7RoomR
