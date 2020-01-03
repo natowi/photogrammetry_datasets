@@ -40,3 +40,6 @@ https://github.com/ProjectNineveh/panel17RoomM
 https://github.com/ProjectNineveh/panel13
 https://github.com/ProjectNineveh/fruitCarriersRoomL1
 https://github.com/ProjectNineveh/panel7RoomR
+
+hundreds of GB of data, various models by https://universityofcambridgemuseums.github.io/festivalOfIdeas/tutorials/further-reading/
+https://drive.google.com/drive/folders/1LgHMXdZYsyGWj-Q-Qm4LmuSnfrcSghNE
