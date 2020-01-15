@@ -33,6 +33,9 @@ http://www.cvlibs.net/datasets/kitti/eval_odometry.php
 https://www.capturingreality.com/sampledatasets
 Small Plastic, Drone Imagery, Laser Scans and Photos, Full-Body Scan, Full-Body Scan - A Pose, Image Layers
 
+https://github.com/HappyOcean/Full_Body_Photogrammetry
+Full Body Photogrammetry / 3D Scan Image Dataset for 3D Real Avatar / Model Creation
+
 https://www.epfl.ch/labs/cvlab/data/data-strechamvs/
 
 https://github.com/m6c7l/photogrammetry
