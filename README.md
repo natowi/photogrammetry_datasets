@@ -17,6 +17,8 @@ From small (<20MB), medium (1GB-5GB) to large (up to 350GB) datasets.
 
 # New
 
+http://www.pi3dscan.com/index.php/download/category/sample-scan-files
+
 https://openheritage3d.org/data
 
 http://gmv.cast.uark.edu/photogrammetry/data/
