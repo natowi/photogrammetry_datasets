@@ -48,3 +48,6 @@ https://github.com/ProjectNineveh/panel7RoomR
 
 hundreds of GB of data, various models by https://universityofcambridgemuseums.github.io/festivalOfIdeas/tutorials/further-reading/
 https://drive.google.com/drive/folders/1LgHMXdZYsyGWj-Q-Qm4LmuSnfrcSghNE
+
+Camera grid datasets. Some datasets difficult for photogrammetry due to high reflectance or featureless surfaces
+http://lightfield.stanford.edu/lfs.html
