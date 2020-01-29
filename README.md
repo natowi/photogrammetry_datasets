@@ -51,3 +51,5 @@ https://drive.google.com/drive/folders/1LgHMXdZYsyGWj-Q-Qm4LmuSnfrcSghNE
 
 Camera grid datasets. Some datasets difficult for photogrammetry due to high reflectance or featureless surfaces
 http://lightfield.stanford.edu/lfs.html
+
+60gb turntable dataset http://www.vision.caltech.edu/Image_Datasets/3D_objects/
