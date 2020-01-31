@@ -2,7 +2,7 @@
 
 This is a collection of datasets for photogrammetry.
 
-A csv-table with **350+ datasets** can be downloaded from this repo (**dataset.csv**).
+A csv-table with **350+ datasets** can be downloaded from this repo [**datasets.csv**](./datasets.csv).
 
 **Contents**
 
