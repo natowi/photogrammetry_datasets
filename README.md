@@ -6,7 +6,7 @@ A csv-table with **350+ datasets** can be downloaded from this repository: [**da
 
 **Contents**
 
-Dataset,Camera,Category,Author,Organisation/Project,Source,Dataset link,Images,Size in GB (ca.),Ground Truth,License,License link,SampleImage,Image Format,DOI,Masks,Description
+Dataset,Camera,Category,Author,Organisation/Project,Source,Dataset link,Images,Size in GB,Ground Truth,License,License link,SampleImage,Image Format,DOI,Masks,Description
 
 ![Preview](csvpreview.JPG)
 
