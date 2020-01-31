@@ -19,6 +19,13 @@ From small (<20MB), medium (1GB-5GB) to large (up to 350GB) datasets.
 
 https://openheritage3d.org/data
 
+# New
+
+https://gumroad.com/l/dSAzI https://wetransfer.com/downloads/59795479cb473c3f64ce26d2c897381020200130025221/4bd61bd60b355c0fd127625b5795785820200130025221/d65978 shared by smallpoly via reddit
+
+
+
+
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
 https://gmv.cast.uark.edu/index.html
