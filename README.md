@@ -27,6 +27,10 @@ https://gumroad.com/l/dSAzI https://wetransfer.com/downloads/59795479cb473c3f64c
 ["American Rodeo Cowboy"](https://www.dropbox.com/sh/rbegeqgihpp6xwj/AAAWZFLvBCG5PlPIk059vVJpa?dl=0) by hargrovecompany
 
 
+https://harvest4d.org/?page_id=1367
+Creative Commons Attribution (CC-BY) 
+
+
 
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
