@@ -32,6 +32,8 @@ Creative Commons Attribution (CC-BY)
 
 https://www.gcc.tu-darmstadt.de/home/proj/ambient_point_clouds/apc.en.jsp
 
+https://www.eth3d.net/datasets
+
 
 
 # Not accessible
