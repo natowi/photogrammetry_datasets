@@ -34,6 +34,8 @@ https://www.gcc.tu-darmstadt.de/home/proj/ambient_point_clouds/apc.en.jsp
 
 https://www.eth3d.net/datasets
 
+https://www.visuallocalization.net/datasets/
+
 
 
 # Not accessible
