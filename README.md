@@ -36,6 +36,7 @@ https://www.eth3d.net/datasets
 
 https://www.visuallocalization.net/datasets/
 
+https://www.opendronemap.org/odm/datasets/
 
 
 # Not accessible
