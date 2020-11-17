@@ -38,6 +38,9 @@ https://www.visuallocalization.net/datasets/
 
 https://www.opendronemap.org/odm/datasets/
 
+https://www.capturingreality.com/SampleDatasets
+
+https://data.mendeley.com/datasets/vfz5pz4n8k/3
 
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
