@@ -42,6 +42,10 @@ https://www.capturingreality.com/SampleDatasets
 
 https://data.mendeley.com/datasets/vfz5pz4n8k/3
 
+https://github.com/YoYo000/BlendedMVS
+
+https://github.com/lzx551402/GL3D
+
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
 https://gmv.cast.uark.edu/index.html
