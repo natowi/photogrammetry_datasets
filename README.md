@@ -22,6 +22,8 @@ https://openheritage3d.org/data
 
 # New
 
+https://github.com/AlansCodeLog/photogrammetry-test-sets 
+
 http://vision.ia.ac.cn/zh/data/index.html Chinese historical buildings 1-5gb (提取码 -> passcode)
 
 http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html large aerial city dataset 57gb with ground truth
