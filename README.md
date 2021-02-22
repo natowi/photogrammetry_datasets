@@ -22,6 +22,10 @@ https://openheritage3d.org/data
 
 # New
 
+http://vision.ia.ac.cn/zh/data/index.html Chinese historical buildings 1-5gb
+
+http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html large aerial city dataset 57gb with ground truth
+
 https://gumroad.com/l/dSAzI https://wetransfer.com/downloads/59795479cb473c3f64ce26d2c897381020200130025221/4bd61bd60b355c0fd127625b5795785820200130025221/d65978 shared by smallpoly via reddit
 
 ["American Rodeo Cowboy"](https://www.dropbox.com/sh/rbegeqgihpp6xwj/AAAWZFLvBCG5PlPIk059vVJpa?dl=0) by hargrovecompany
