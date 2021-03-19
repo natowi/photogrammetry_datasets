@@ -355,3 +355,6 @@ Karate Boy made with projection,Pi Scan Rig,,,https://www.pi3dscan.com/index.php
 Man proposing ,Pi Scan Rig,,,https://www.pi3dscan.com/index.php/download/category/sample-scan-files,,,,,,,,,,,,
 Richard ,Pi Scan Rig,,,https://www.pi3dscan.com/index.php/download/category/sample-scan-files,,,,,,,,,,,,
 Woman in bikini with projection,Pi Scan Rig,,,https://www.pi3dscan.com/index.php/download/category/sample-scan-files,,,,,,,,,,,,
+Dortmund - urban dataset,Hasselblad H4D-50,Aerial,,https://docs.nframes.com/getting-started-with-sure/sample-datasets/,http://www.nframes.com/downloads/datasets/Dortmund_Subset_10cm_Nadir_80_60_IGI_50MP.zip,,24,"5,8",,,,,,,,
+Vaihingen - rural dataset,UltraCamX,Aerial,,https://docs.nframes.com/getting-started-with-sure/sample-datasets/,http://nframes.com/downloads/datasets/VaihingenEnz_UltraCamX_GSD8cm_Nadir8060.zip,,21,"7,1",,,,,,,,
+Church - close range dataset,Nikon D800,Building,,https://docs.nframes.com/getting-started-with-sure/sample-datasets/,http://www.nframes.com/downloads/datasets/Church_6images_Nikon_D800_pix4Dorientation.zip,,9,"0,210",,,,,,,,
