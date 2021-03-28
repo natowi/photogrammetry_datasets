@@ -52,6 +52,8 @@ https://github.com/YoYo000/BlendedMVS
 
 https://github.com/lzx551402/GL3D
 
+https://dronemapper.com/sample_data/
+
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
 https://gmv.cast.uark.edu/index.html
