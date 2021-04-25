@@ -54,7 +54,7 @@ https://github.com/lzx551402/GL3D
 
 https://dronemapper.com/sample_data/
 
-https://github.com/QingyongHu/SensatUrban - Urban scale dataset 
+https://github.com/QingyongHu/SensatUrban - Cambridge urban aerial image dataset 
 
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
