@@ -59,6 +59,8 @@ https://github.com/QingyongHu/SensatUrban - Cambridge urban aerial image dataset
 https://www.capturingreality.com/SampleDatasets
 https://www.capturingreality.com/advent-calendar-datasets
 
+https://www.4seasons-dataset.com/
+
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
 https://gmv.cast.uark.edu/index.html
