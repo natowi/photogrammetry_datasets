@@ -61,6 +61,8 @@ https://www.capturingreality.com/advent-calendar-datasets
 
 https://www.4seasons-dataset.com/
 
+https://zenodo.org/communities/ladio/?page=1&size=20
+
 # Not accessible
 https://lightfield.stanford.edu/lfs.html
 https://gmv.cast.uark.edu/index.html
