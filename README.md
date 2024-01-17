@@ -59,6 +59,8 @@ https://github.com/QingyongHu/SensatUrban - Cambridge urban aerial image dataset
 https://www.capturingreality.com/SampleDatasets
 https://www.capturingreality.com/advent-calendar-datasets
 
+https://github.com/OpenDroneMap/ODMdata
+
 https://www.4seasons-dataset.com/
 
 https://zenodo.org/communities/ladio/?page=1&size=20
