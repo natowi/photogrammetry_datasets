@@ -63,6 +63,8 @@ https://github.com/OpenDroneMap/ODMdata
 
 https://www.4seasons-dataset.com/
 
+https://github.com/MipMap-3D/UAV-Datasets (CC-BY-NC 4.0)
+
 https://zenodo.org/communities/ladio/?page=1&size=20
 
 # Not accessible
